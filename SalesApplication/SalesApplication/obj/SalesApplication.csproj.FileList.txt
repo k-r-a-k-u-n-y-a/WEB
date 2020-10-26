@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SalesApplication.Properties.Resources.resources
+obj\Debug\SalesApplication.csproj.GenerateResource.Cache
+bin\Debug\SalesApplication.exe
+bin\Debug\SalesApplication.pdb
+obj\Debug\SalesApplication.exe
+obj\Debug\SalesApplication.pdb
+obj\Debug\SalesApplication.MainForm.resources
+obj\Debug\SalesApplication.AddCustomerForm.resources
+obj\Debug\SalesApplication.ViewCustomersForm.resources
